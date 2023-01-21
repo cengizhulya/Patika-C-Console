@@ -1,0 +1,15 @@
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\bin\Debug\net6.0\NotOrtalamasiHesaplayanProgram.exe
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\bin\Debug\net6.0\NotOrtalamasiHesaplayanProgram.deps.json
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\bin\Debug\net6.0\NotOrtalamasiHesaplayanProgram.runtimeconfig.json
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\bin\Debug\net6.0\NotOrtalamasiHesaplayanProgram.dll
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\bin\Debug\net6.0\NotOrtalamasiHesaplayanProgram.pdb
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\obj\Debug\net6.0\NotOrtalamasiHesaplayanProgram.csproj.AssemblyReference.cache
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\obj\Debug\net6.0\NotOrtalamasiHesaplayanProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\obj\Debug\net6.0\NotOrtalamasiHesaplayanProgram.AssemblyInfoInputs.cache
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\obj\Debug\net6.0\NotOrtalamasiHesaplayanProgram.AssemblyInfo.cs
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\obj\Debug\net6.0\NotOrtalamasiHesaplayanProgram.csproj.CoreCompileInputs.cache
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\obj\Debug\net6.0\NotOrtalamasiHesaplayanProgram.dll
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\obj\Debug\net6.0\refint\NotOrtalamasiHesaplayanProgram.dll
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\obj\Debug\net6.0\NotOrtalamasiHesaplayanProgram.pdb
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\obj\Debug\net6.0\NotOrtalamasiHesaplayanProgram.genruntimeconfig.cache
+C:\Users\HulyaCengiz\source\repos\NotOrtalamasiHesaplayanProgram\NotOrtalamasiHesaplayanProgram\obj\Debug\net6.0\ref\NotOrtalamasiHesaplayanProgram.dll
