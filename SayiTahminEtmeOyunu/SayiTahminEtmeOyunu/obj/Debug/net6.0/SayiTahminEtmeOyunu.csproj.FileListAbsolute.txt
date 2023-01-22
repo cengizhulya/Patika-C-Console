@@ -1,0 +1,15 @@
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\bin\Debug\net6.0\SayiTahminEtmeOyunu.exe
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\bin\Debug\net6.0\SayiTahminEtmeOyunu.deps.json
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\bin\Debug\net6.0\SayiTahminEtmeOyunu.runtimeconfig.json
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\bin\Debug\net6.0\SayiTahminEtmeOyunu.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\bin\Debug\net6.0\SayiTahminEtmeOyunu.pdb
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\obj\Debug\net6.0\SayiTahminEtmeOyunu.csproj.AssemblyReference.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\obj\Debug\net6.0\SayiTahminEtmeOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\obj\Debug\net6.0\SayiTahminEtmeOyunu.AssemblyInfoInputs.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\obj\Debug\net6.0\SayiTahminEtmeOyunu.AssemblyInfo.cs
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\obj\Debug\net6.0\SayiTahminEtmeOyunu.csproj.CoreCompileInputs.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\obj\Debug\net6.0\SayiTahminEtmeOyunu.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\obj\Debug\net6.0\refint\SayiTahminEtmeOyunu.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\obj\Debug\net6.0\SayiTahminEtmeOyunu.pdb
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\obj\Debug\net6.0\SayiTahminEtmeOyunu.genruntimeconfig.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\SayiTahminEtmeOyunu\SayiTahminEtmeOyunu\obj\Debug\net6.0\ref\SayiTahminEtmeOyunu.dll
