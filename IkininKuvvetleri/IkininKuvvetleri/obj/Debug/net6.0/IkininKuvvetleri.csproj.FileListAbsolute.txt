@@ -1,0 +1,15 @@
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\bin\Debug\net6.0\IkininKuvvetleri.exe
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\bin\Debug\net6.0\IkininKuvvetleri.deps.json
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\bin\Debug\net6.0\IkininKuvvetleri.runtimeconfig.json
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\bin\Debug\net6.0\IkininKuvvetleri.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\bin\Debug\net6.0\IkininKuvvetleri.pdb
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\obj\Debug\net6.0\IkininKuvvetleri.csproj.AssemblyReference.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\obj\Debug\net6.0\IkininKuvvetleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\obj\Debug\net6.0\IkininKuvvetleri.AssemblyInfoInputs.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\obj\Debug\net6.0\IkininKuvvetleri.AssemblyInfo.cs
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\obj\Debug\net6.0\IkininKuvvetleri.csproj.CoreCompileInputs.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\obj\Debug\net6.0\IkininKuvvetleri.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\obj\Debug\net6.0\refint\IkininKuvvetleri.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\obj\Debug\net6.0\IkininKuvvetleri.pdb
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\obj\Debug\net6.0\IkininKuvvetleri.genruntimeconfig.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\IkininKuvvetleri\IkininKuvvetleri\obj\Debug\net6.0\ref\IkininKuvvetleri.dll
