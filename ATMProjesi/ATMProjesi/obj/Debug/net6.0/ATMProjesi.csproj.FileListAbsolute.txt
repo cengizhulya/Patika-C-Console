@@ -1,0 +1,15 @@
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\bin\Debug\net6.0\ATMProjesi.exe
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\bin\Debug\net6.0\ATMProjesi.deps.json
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\bin\Debug\net6.0\ATMProjesi.runtimeconfig.json
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\bin\Debug\net6.0\ATMProjesi.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\bin\Debug\net6.0\ATMProjesi.pdb
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\obj\Debug\net6.0\ATMProjesi.csproj.AssemblyReference.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\obj\Debug\net6.0\ATMProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\obj\Debug\net6.0\ATMProjesi.AssemblyInfoInputs.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\obj\Debug\net6.0\ATMProjesi.AssemblyInfo.cs
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\obj\Debug\net6.0\ATMProjesi.csproj.CoreCompileInputs.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\obj\Debug\net6.0\ATMProjesi.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\obj\Debug\net6.0\refint\ATMProjesi.dll
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\obj\Debug\net6.0\ATMProjesi.pdb
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\obj\Debug\net6.0\ATMProjesi.genruntimeconfig.cache
+C:\Users\HulyaCengiz\Desktop\PATIKA_ORNEKLER\ATMProjesi\ATMProjesi\obj\Debug\net6.0\ref\ATMProjesi.dll
